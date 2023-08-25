@@ -1,4 +1,5 @@
 # demo
+
 This is my first Git Repository.
 <br>
-Author - Sham Kumar
+Author - Sham (The Coder)
